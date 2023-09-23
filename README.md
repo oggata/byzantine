@@ -23,10 +23,12 @@
 
 各色8枚が用意されており累計で32枚のカードがあります。
 
-赤...population decline(人口減少)
-青...Disaster & Infrastructure (災害とインフラ)
-黄...Information Society (情報化社会)
-緑...Healthcare and Social-welfare (医療と社会福祉)
+| 色 | 意味 |
+| ------------- | ------------- |
+| 赤  | population decline(人口減少)  |
+| 青  | Disaster & Infrastructure (災害とインフラ)  |
+| 黄  | Information Society (情報化社会)  |
+| 緑  | Healthcare and Social-welfare (医療と社会福祉)  |
 
 (カードの数字)
 
@@ -38,9 +40,13 @@
 1.勝利によって得られる得点(社会の幸福度)
 2.ステーキングできる個数(この図では-となっておりステーキング不可)
 3.選挙の種類
-    S...Single Choice Voting ... 最も数字が大きいカードが強い
-    R...Ranked Choice Voting ... 2番目に数字が大きいカードが強い
-    Q...Quodratic Voting ... 最も数字が小さいカードが強い
+
+| - | 名前 |意味 |
+| ------------- | ------------- |------------- |
+| S  | Single Choice Voting| 最も数字が大きいカードが強い|
+| R  | Ranked Choice Voting  |2番目に数字が大きいカードが強い |
+| Q  | Quodratic Voting  | 最も数字が小さいカードが強い|
+
 4.優先される社会課題のテーマ(切り札の色)
 (この図の場合は、赤ではなく透明の扱いとなり、切り札はない)
 
@@ -106,7 +112,7 @@ Quadrativ Voting...場のカードの中で最も小さな数字の書かれて�
 
 ## 参考プレイ
 
-<img src="./images/IMG_5365.jpg" width="300px">
+<img src="./images/IMG_5356.jpg" width="300px">
 
 例えば、親が1を出した場合に、右回りに同じ色のカードを出していく。
 もし同じ色がなければ、他の色を出しても良いが、数字の大きさに関わらず負けとなる。
